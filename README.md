@@ -13,14 +13,14 @@ This project is an AI-powered chatbot built using React.js, Node.js, Express.js,
 
 ## Example
 
-![Chatbot Interface Example](https://dummyimage.com/600x400/000/fff&text=Chatbot+UI+Example)
+![Chatbot Interface Example](https://github.com/pushan-alagiya/ai-chat-bot/blob/main/ss.png?raw=true)
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pushan-alagiya/chatbot.git
+git clone https://github.com/pushan-alagiya/ai-chat-bot
 cd intelligent-chatbot
 ```
 
